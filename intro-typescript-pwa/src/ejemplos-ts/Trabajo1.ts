@@ -1,4 +1,4 @@
-/* interface Alumnno{
+interface Alumnno{
     nombre: string;
     edad: number;
     direccion: {
@@ -30,4 +30,4 @@ const AlumnoUTL: Alumnno={
     },
 }
 const dirreccion=AlumnoUTL.mostrarDireccion();
-console.log(dirreccion); */
+console.log(dirreccion);
